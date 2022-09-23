@@ -93,14 +93,14 @@ img {
   width: 80px; height: 80px;
   right: -30px;
   top: -30px;
-  border: solid 6px #FFB66B;
+  border: solid 6px #aabfe4;
 }
 
 .circle2{
   width: 40px; height: 40px;
   right: 80px;
   top: 65px;
-  background-color: #FFB66B;
+  background-color: #aacee4;
 }
 
 .page_title {
